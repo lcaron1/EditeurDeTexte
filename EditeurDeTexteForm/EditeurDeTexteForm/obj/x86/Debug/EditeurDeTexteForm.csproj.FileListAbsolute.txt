@@ -1,0 +1,17 @@
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\bin\Debug\EditeurDeTexteForm.exe
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\bin\Debug\EditeurDeTexteForm.pdb
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.fm_principal.resources
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.Properties.Resources.resources
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.csproj.GenerateResource.Cache
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.exe
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.pdb
+U:\SIO 2\SLAM4\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.csprojResolveAssemblyReference.cache
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\bin\Debug\EditeurDeTexteForm.exe
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\bin\Debug\EditeurDeTexteForm.pdb
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.csprojResolveAssemblyReference.cache
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.fm_principal.resources
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.Properties.Resources.resources
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.csproj.GenerateResource.Cache
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.csproj.CoreCompileInputs.cache
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.exe
+H:\SIO2\EditeurDeTexteForm\EditeurDeTexteForm\obj\x86\Debug\EditeurDeTexteForm.pdb
