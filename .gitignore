@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/csharp
 # Edit at https://www.gitignore.io/?templates=csharp
 
@@ -23,8 +22,8 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/*
-x86/*
+x64/Debug
+x86/Debug
 bld/*
 [Bb]in/
 [Oo]bj/
